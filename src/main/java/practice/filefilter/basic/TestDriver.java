@@ -14,7 +14,7 @@ public class TestDriver {
         files.add(new File(2, "AllFiles", 1000000));
         files.add(new File(3, "Tasks", 10));
         files.add(new File(4, "ObjectOriented", 10000));
-        System.out.println(files);
+        System.out.println("Input files: " + files);
 
         SizeFilter sizeFilter = new SizeFilter();
         SuffixFilter suffixFilter = new SuffixFilter();
