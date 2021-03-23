@@ -1,5 +1,7 @@
 # Java-OOD
 
+[![Build](https://github.com/zdong1995/Java-OOD/actions/workflows/maven.yml/badge.svg)](https://github.com/zdong1995/Java-OOD/actions/workflows/maven.yml) ![java](https://img.shields.io/badge/Language-Java-orange?logo=java)
+
 Summary and learning notes for Java and Design pattern, with personal practice code for several problems.
 
 ## Table of Contents
@@ -8,7 +10,12 @@ Summary and learning notes for Java and Design pattern, with personal practice c
 - Concurrency and Multi-threading
 - Data Structure Design
 - Design Pattern
-- OOD Practice
+- [OOD Practice](https://github.com/zdong1995/Java-OOD#ood-practice)
+
+## OOD Practice
+- [Immutable Objects](./src/main/java/practice/immutable)
+- [Vending Machine](./src/main/java/practice/vendingmachine)
+- [File Filter](./src/main/java/practice/filefilter)
 
 ## How to use?
 

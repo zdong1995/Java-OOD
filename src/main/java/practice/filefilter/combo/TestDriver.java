@@ -20,7 +20,7 @@ public class TestDriver {
         SizeHighFilter sizeHighFilter = new SizeHighFilter(new FilterParam(10000)); // filter size < 10000
         SuffixFilter suffixFilter = new SuffixFilter(new FilterParam("Al"));
 
-        /* Suffix = "Al" && 100 < size < 1000000
+        /* Suffix = "Al" && 100 < size < 10000
          * Syntax Tree
          *     AND
          *    /   \
