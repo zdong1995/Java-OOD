@@ -1,9 +1,9 @@
-package practice.expression;
+package practice.expressionevaluator;
 
-public abstract class ExpEvaluator {
+public abstract class BaseEvaluator {
     protected final String operator;
 
-    public ExpEvaluator(String operator) {
+    public BaseEvaluator(String operator) {
         this.operator = operator;
     }
 

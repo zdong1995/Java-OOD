@@ -1,9 +1,9 @@
-package practice.expression;
+package practice.expressionevaluator;
 
 /**
  * Evaluator for + - * / to Integer
  */
-public class IntEvaluator extends ExpEvaluator {
+public class IntEvaluator extends BaseEvaluator {
     public IntEvaluator(String operator) {
         super(operator);
     }

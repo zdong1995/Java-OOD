@@ -1,9 +1,9 @@
-package practice.expression;
+package practice.expressionevaluator;
 
 /**
  * Evaluate || && to Boolean
  */
-public class LogicEvaluator extends ExpEvaluator {
+public class LogicEvaluator extends BaseEvaluator {
     public LogicEvaluator(String operator) {
         super(operator);
     }

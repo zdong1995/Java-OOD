@@ -1,9 +1,9 @@
-package practice.expression;
+package practice.expressionevaluator;
 
 /**
  * Evaluate for > < == != to Boolean
  */
-public class BinaryEvaluator extends ExpEvaluator {
+public class BinaryEvaluator extends BaseEvaluator {
     public BinaryEvaluator(String operator) {
         super(operator);
     }

@@ -1,4 +1,4 @@
-package practice.expression;
+package practice.expressionevaluator;
 
 public class TestDriver {
     /*
@@ -25,9 +25,8 @@ public class TestDriver {
         node3.left = new SyntaxTreeNode(2);
         node3.right = new SyntaxTreeNode(5);
 
-        ExpController controller = new ExpController();
         System.out.println("Evaluation expresion:");
         System.out.println("4 > (2 + 5) && 3 == 4");
-        System.out.println(controller.eval(root)); // false
+        System.out.println(root.eval()); // false
     }
 }

@@ -1,4 +1,4 @@
-package practice.expression;
+package practice.expressionevaluator;
 
 public class Operand {
     private final Boolean boolRes;
