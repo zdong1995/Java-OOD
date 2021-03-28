@@ -8,14 +8,18 @@ Summary and learning notes for Java and Design pattern, with personal practice c
 
 - Java Basic
 - Concurrency and Multi-threading
-- Data Structure Design
+- [Data Structure Design](https://github.com/zdong1995/Java-OOD#data-structure-design)
 - Design Pattern
 - [OOD Practice](https://github.com/zdong1995/Java-OOD#ood-practice)
+
+## Data Structure Design
+- [LRU Cache](./src/main/java/implementation/lrucache)
 
 ## OOD Practice
 - [Immutable Objects](./src/main/java/practice/immutable)
 - [Vending Machine](./src/main/java/practice/vendingmachine)
 - [File Filter](./src/main/java/practice/filefilter)
+- [Expression Evaluator](./src/main/java/practice/expressionevaluator)
 
 ## How to use?
 
